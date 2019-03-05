@@ -32,7 +32,7 @@
          url('fonts/Roboto-Medium-webfont.woff') format('woff'),
          url('fonts/Roboto-Medium-webfont.ttf') format('truetype'),
          url('fonts/Roboto-Medium-webfont.svg#robotomedium') format('svg');
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
 }
 /* use it if you really do need it */
