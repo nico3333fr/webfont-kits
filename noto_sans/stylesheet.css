@@ -1,0 +1,58 @@
+/* ----------------------------  REGULAR  ----------------------------  */
+@font-face {
+    /*font-family: 'noto_sansregular';*/
+	font-family: 'noto_sans';
+    src: url('fonts/notosans-regular-webfont.eot');
+    src: url('fonts/notosans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/notosans-regular-webfont.woff2') format('woff2'),
+         url('fonts/notosans-regular-webfont.woff') format('woff'),
+         url('fonts/notosans-regular-webfont.ttf') format('truetype'),
+         url('fonts/notosans-regular-webfont.svg#noto_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    /*font-family: 'noto_sansitalic';*/
+	font-family: 'noto_sans';
+    src: url('fonts/notosans-italic-webfont.eot');
+    src: url('fonts/notosans-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/notosans-italic-webfont.woff2') format('woff2'),
+         url('fonts/notosans-italic-webfont.woff') format('woff'),
+         url('fonts/notosans-italic-webfont.ttf') format('truetype'),
+         url('fonts/notosans-italic-webfont.svg#noto_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    /*font-family: 'noto_sansbold';*/
+	font-family: 'noto_sans';
+    src: url('fonts/notosans-bold-webfont.eot');
+    src: url('fonts/notosans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/notosans-bold-webfont.woff2') format('woff2'),
+         url('fonts/notosans-bold-webfont.woff') format('woff'),
+         url('fonts/notosans-bold-webfont.ttf') format('truetype'),
+         url('fonts/notosans-bold-webfont.svg#noto_sansbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+/* use it if you really do need it */
+@font-face {
+    /*font-family: 'noto_sansbold_italic';*/
+	font-family: 'noto_sans';
+    src: url('fonts/notosans-bolditalic-webfont.eot');
+    src: url('fonts/notosans-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/notosans-bolditalic-webfont.woff2') format('woff2'),
+         url('fonts/notosans-bolditalic-webfont.woff') format('woff'),
+         url('fonts/notosans-bolditalic-webfont.ttf') format('truetype'),
+         url('fonts/notosans-bolditalic-webfont.svg#noto_sansbold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+

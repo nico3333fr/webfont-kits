@@ -1,0 +1,174 @@
+/* ----------------------------  REGULAR (WITH BOLD AS BOLD) ----------------------------  */
+@font-face {
+    /*font-family: 'source_sans_proregular';*/
+	font-family: 'SourceSansPro';
+    src: url('fonts/sourcesanspro-regular-webfont.eot');
+    src: url('fonts/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-regular-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    /*font-family: 'source_sans_proitalic';*/
+	font-family: 'SourceSansPro';
+    src: url('fonts/sourcesanspro-it-webfont.eot');
+    src: url('fonts/sourcesanspro-it-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-it-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-it-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-it-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-it-webfont.svg#source_sans_proitalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    /*font-family: 'source_sans_probold';*/
+	font-family: 'SourceSansPro';
+    src: url('fonts/sourcesanspro-bold-webfont.eot');
+    src: url('fonts/sourcesanspro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-bold-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-bold-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-bold-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-bold-webfont.svg#source_sans_probold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+/* use it if you really do need it */
+@font-face {
+    /*font-family: 'source_sans_probold_italic';*/
+	font-family: 'SourceSansPro';
+    src: url('fonts/sourcesanspro-boldit-webfont.eot');
+    src: url('fonts/sourcesanspro-boldit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-boldit-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-boldit-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-boldit-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-boldit-webfont.svg#source_sans_probold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+
+
+
+/* ----------------------------  SEMI BOLD ----------------------------  */
+@font-face {
+    /*font-family: 'source_sans_prosemibold';*/
+	font-family: 'SourceSansPro Semi Bold';
+    src: url('fonts/sourcesanspro-semibold-webfont.eot');
+    src: url('fonts/sourcesanspro-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-semibold-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-semibold-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-semibold-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-semibold-webfont.svg#source_sans_prosemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    /*font-family: 'source_sans_proSBdIt';*/
+	font-family: 'SourceSansPro Semi Bold';
+    src: url('fonts/sourcesanspro-semiboldit-webfont.eot');
+    src: url('fonts/sourcesanspro-semiboldit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-semiboldit-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-semiboldit-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-semiboldit-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-semiboldit-webfont.svg#source_sans_proSBdIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
+
+
+
+/* ----------------------------  LIGHT ----------------------------  */
+@font-face {
+    /*font-family: 'source_sans_prolight';*/
+	font-family: 'SourceSansPro Light';
+    src: url('fonts/sourcesanspro-light-webfont.eot');
+    src: url('fonts/sourcesanspro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-light-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-light-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-light-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-light-webfont.svg#source_sans_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    /*font-family: 'source_sans_prolight_italic';*/
+	font-family: 'SourceSansPro Light';
+    src: url('fonts/sourcesanspro-lightit-webfont.eot');
+    src: url('fonts/sourcesanspro-lightit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-lightit-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-lightit-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-lightit-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-lightit-webfont.svg#source_sans_prolight_italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
+
+
+
+/* ----------------------------  EXTRA LIGHT ----------------------------  */
+@font-face {
+    /*font-family: 'source_sans_proextralight';*/
+	font-family: 'SourceSansPro ExtraLight';
+    src: url('fonts/sourcesanspro-extralight-webfont.eot');
+    src: url('fonts/sourcesanspro-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-extralight-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-extralight-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-extralight-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-extralight-webfont.svg#source_sans_proextralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    /*font-family: 'source_sans_proXLtIt';*/
+	font-family: 'SourceSansPro ExtraLight';
+    src: url('fonts/sourcesanspro-extralightit-webfont.eot');
+    src: url('fonts/sourcesanspro-extralightit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-extralightit-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-extralightit-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-extralightit-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-extralightit-webfont.svg#source_sans_proXLtIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
+
+
+
+/* ----------------------------  BLACK ----------------------------  */
+@font-face {
+    /*font-family: 'source_sans_problack';*/
+	font-family: 'SourceSansPro Black';
+    src: url('fonts/sourcesanspro-black-webfont.eot');
+    src: url('fonts/sourcesanspro-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-black-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-black-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-black-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-black-webfont.svg#source_sans_problack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'source_sans_problack_italic';
+    src: url('fonts/sourcesanspro-blackit-webfont.eot');
+    src: url('fonts/sourcesanspro-blackit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sourcesanspro-blackit-webfont.woff2') format('woff2'),
+         url('fonts/sourcesanspro-blackit-webfont.woff') format('woff'),
+         url('fonts/sourcesanspro-blackit-webfont.ttf') format('truetype'),
+         url('fonts/sourcesanspro-blackit-webfont.svg#source_sans_problack_italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
